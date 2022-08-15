@@ -1,2 +1,2 @@
-# ds2021
-Data Science Course - Fall 2021
+# Data Science Course at CS-SBU
+Fall-Winter 2021
